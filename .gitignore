@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-.cleaned_signals.csv
+/cleaned_signals.csv
 
 # Distribution / packaging
 .Python
